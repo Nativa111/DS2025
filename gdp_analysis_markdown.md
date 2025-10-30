@@ -2,6 +2,7 @@
 ## Comparaison Internationale (2018-2023)
 
 Cherestal Deborah Nativa
+
 ![Deborah Nativa Cherestal](![WhatsApp Image 2025-10-30 at 11 50 17](https://github.com/user-attachments/assets/1a60df9d-1939-410d-ba24-a93462ac4deb)
 )
 ![Deborah Nativa Cherestal](https://upload.wikimedia.org/wikipedia/fr/b/bf/ENCG-S.png)
