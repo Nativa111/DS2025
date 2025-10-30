@@ -2,7 +2,7 @@
 ## Comparaison Internationale (2018-2023)
 
 Cherestal Deborah Nativa
-
+![Deborah Nativa Cherestal](https://upload.wikimedia.org/wikipedia/fr/b/bf/ENCG-S.png)
 ---
 
 ## 1. Introduction Générale
