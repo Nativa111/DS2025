@@ -6,6 +6,9 @@ Cherestal Deborah Nativa
 ![Deborah Nativa Cherestal](![WhatsApp Image 2025-10-30 at 11 50 17](https://github.com/user-attachments/assets/1a60df9d-1939-410d-ba24-a93462ac4deb)
 )
 ![Deborah Nativa Cherestal](https://upload.wikimedia.org/wikipedia/fr/b/bf/ENCG-S.png)
+
+![Deborah Nativa Cherestal](<img width="1389" height="989" alt="imagerapport" src="https://github.com/user-attachments/assets/785a6052-1350-4837-a61b-1a440c431fd4" />
+)
 ---
 
 ## 1. Introduction Générale
