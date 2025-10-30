@@ -1,6 +1,8 @@
 # Rapport d'Analyse Approfondie du PIB
 ## Comparaison Internationale (2018-2023)
 
+Cherestal Deborah Nativa
+
 ---
 
 ## 1. Introduction Générale
