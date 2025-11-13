@@ -2,6 +2,11 @@
 ## Étude sur la Performance Académique des Étudiants
 
 ---
+CHERESTAL Deborah Nativa
+22008149
+G2 Fin
+DS 2025
+
 
 **Titre de l'étude :** Student Academics Performance Dataset  
 **Auteur principal :** Sadiq Hussain et al.  
