@@ -32,6 +32,15 @@
 
 L'étude menée par Hussain et ses collaborateurs en 2018 représente une contribution majeure au domaine de l'Educational Data Mining (EDM) en Inde. Cette recherche analyse les performances académiques de 300 étudiants issus de trois établissements d'enseignement supérieur de l'État d'Assam, en utilisant des techniques avancées de machine learning pour prédire les résultats de fin de semestre.
 
+
+
+![Deborah Nativa Cherestal](![WhatsApp Image 2025-10-30 at 11 50 17](https://github.com/user-attachments/assets/1a60df9d-1939-410d-ba24-a93462ac4deb)
+)
+![Deborah Nativa Cherestal](https://upload.wikimedia.org/wikipedia/fr/b/bf/ENCG-S.png)
+![Deborah Nativa Cherestal]("C:\Users\hp\Downloads\EDM_IAP_success_rates.png")
+![Deborah Nativa Cherestal]("C:\Users\hp\Downloads\EDM_algorithms_accuracy(1).png")
+
+
 ### Principaux résultats
 
 - **Meilleur algorithme :** Random Forest avec 92% de précision
