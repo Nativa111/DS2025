@@ -1614,6 +1614,11 @@ Cette vision n'est pas utopique. Elle est à portée de main si nous agissons ma
 - Domine tous les autres facteurs
 - Corrélation forte avec réussite finale : Best (96%) → Fail (15%)
 
+
+
+![Deborah Nativa Cherestal](PNG — Comparaison des algorithmes (accuracy vs error)
+)
+
 📊 **Hiérarchie des facteurs :**
 1. Académiques (78%) : IAP, présence, performances passées
 2. Socio-économiques (52%) : revenu familial, éducation parentale
