@@ -1,8 +1,9 @@
 # Rapport d'Analyse Exploratoire des Données de Livraison
+
 Deborah Nativa CHERESTAL
 22008149
 DATA SCIENCE
----
+
 
 ## Sommaire
 
@@ -131,7 +132,3 @@ Troisièmement, il serait pertinent de développer des analyses temporelles expl
 Quatrièmement, l'intégration de données externes complémentaires, telles que des informations économiques régionales ou des données de trafic routier, pourrait enrichir considérablement les analyses et améliorer la compréhension des facteurs influençant la performance.
 
 Enfin, le développement de modèles prédictifs basés sur les insights de cette analyse exploratoire représenterait une évolution naturelle de ce travail. Ces modèles pourraient servir à anticiper les coûts, prédire les retards potentiels, ou optimiser l'allocation des ressources logistiques, contribuant ainsi à une amélioration tangible de l'efficience opérationnelle.
-
----
-
-**Note:** Ce rapport présente une analyse exploratoire préliminaire basée sur l'examen méthodique des données disponibles. Les conclusions et recommandations formulées constituent des pistes d'investigation et d'amélioration qui devraient être validées par des analyses complémentaires et une expertise du domaine logistique.
